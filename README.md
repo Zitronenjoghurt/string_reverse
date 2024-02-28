@@ -1,1 +1,1 @@
-A little test project for studying MISP assembler, reversing a simple ascii input string.
+A little test project for studying MIPS assembler, reversing a simple ascii input string.
